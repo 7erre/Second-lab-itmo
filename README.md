@@ -1,1 +1,1 @@
-# Second-lab-itmo
+This file describes about programm
